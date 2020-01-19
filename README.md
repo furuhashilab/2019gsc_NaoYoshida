@@ -2,10 +2,13 @@
 
 # ゼミ論本文
 ## マップツールのマニュアル化（Manualization of map tools）
-##### 2020年01月20日
-##### 青山学院大学 地球社会共生学部 地球社会共生学科
-##### 1A117175 吉田 奈生
-##### 
+
+2020年01月20日
+
+青山学院大学 地球社会共生学部 地球社会共生学科
+
+1A117175 吉田 奈生
+
 
 ## ゼミ論概要
 ##### https://docs.google.com/document/d/1vLPf48sdAPdKo1FtgPEooneck9pgzcmPpmurpVaUZiA/edit
