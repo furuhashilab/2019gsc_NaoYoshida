@@ -9,6 +9,8 @@
 
 1A117175 吉田 奈生
 
+指導教員：古橋 大地 教授
+
 ## ゼミ論概要
 ##### https://docs.google.com/document/d/1vLPf48sdAPdKo1FtgPEooneck9pgzcmPpmurpVaUZiA/edit
 
