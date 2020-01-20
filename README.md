@@ -79,7 +79,7 @@ DaVinci Resolve
 
 また、今回の研究を通して課題以上に感じたことは、これからの動画マニュアルの需要についてだ。本研究で紹介したように無料の編集ツールでも簡単にマニュアル動画を作ることができる環境が整っている現代では、数多くのマニュアル動画が存在する。今後、マニアックなコンテンツに関してのマニュアル（特に動画）なども簡単に確立され、さらに動画コンテンツの需要が高まるのではないかと考える。
 
-## 6.参考文献
+## 6.[参考文献リスト](https://docs.google.com/spreadsheets/d/1e_2fUJaeE2CgRteg8uqOnLXOqnCN7nZn9FEjGx_PTUs/edit#gid=1750012034)
 - [YouTube ヘルプ](https://support.google.com/youtube?hl=ja&authuser=0#topic=9257498)
 - [How to use Tasking Manager かとゆないるりめいく](https://www.youtube.com/watch?v=sMAdXhwsK6o)
 - [辻義人. (2008). 視聴覚メディア教材を用いた教育活動の展望. 小樽商科大学人文研究, 115, 175-194.](https://barrel.repo.nii.ac.jp/index.php?action=pages_view_main&active_action=repository_action_common_download&item_id=639&item_no=1&attribute_id=19&file_no=1&page_id=13&block_id=135)
