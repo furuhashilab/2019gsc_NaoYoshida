@@ -88,6 +88,4 @@ DaVinci Resolve
 ## 7.謝辞
 本研究を進めるにあたり青山学院大学地球社会共生学部教授、古橋大地氏をはじめ多くの方々より多大な助言を賜りました。厚く感謝を申し上げます。
 
-
-## 2019/11/18ゼミ論中間発表資料
-##### https://docs.google.com/presentation/d/1HIJuXsDUM4k8DZit-rZ3AU6U7nQ1yT08/edit#slide=id.p1
+### [2019/11/18ゼミ論中間発表資料](https://docs.google.com/presentation/d/1HIJuXsDUM4k8DZit-rZ3AU6U7nQ1yT08/edit#slide=id.p1)
