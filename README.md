@@ -12,7 +12,7 @@
 指導教員：古橋 大地 教授
 
 ## [ゼミ論概要](https://docs.google.com/document/d/1vLPf48sdAPdKo1FtgPEooneck9pgzcmPpmurpVaUZiA/edit)
-
+## [ゼミ論 成果物](https://youtu.be/IJi0w2owxJc)
 ## 目次
 1.はじめに
 
