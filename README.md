@@ -14,7 +14,7 @@
 ## ゼミ論概要
 https://docs.google.com/document/d/1vLPf48sdAPdKo1FtgPEooneck9pgzcmPpmurpVaUZiA/edit
 ## ゼミ論 成果物
-https://drive.google.com/file/d/1LwU6GbZZ462Vjrv4IecN5P69nf3jROdl/view?usp=sharing
+https://drive.google.com/file/d/1PvU34y7yArMBPf1cck_mMwdx2k0t5UZQ/view?usp=sharing
 ## 目次
 1.はじめに
 
